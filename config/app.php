@@ -123,4 +123,12 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+
+    /*
+        aliases  Facade in this application
+    */
+    'aliases'=>[
+        'LaravelPwa' => \Ladumor\LaravelPwa\LaravelPwa::class,
+    ]
+
 ];
