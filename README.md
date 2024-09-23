@@ -9,8 +9,6 @@ This project demonstrates a multi-tenant architecture using Laravel, allowing mu
 
 ### To install the project, clone the repository:
 
-```bash
-
 * `git clone https://github.com/masterfiras101/laravel-multitenancy-project.git`
 
 * `cd laravel-multitenancy-project`
@@ -21,9 +19,13 @@ This project demonstrates a multi-tenant architecture using Laravel, allowing mu
 
 * `npm run dev`
 
-# php artisan serve
+* `php artisan serve`
 
-Now open your browser and go to http://localhost:8000.
+  
+---
+
+Now open your browser and go to  [http://localhost:8000](http://localhost:8000)
+
 
 
 
