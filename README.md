@@ -7,7 +7,18 @@ This project demonstrates a multi-tenant architecture using Laravel, allowing mu
 
 ## Installation
 
-To install the project, clone the repository:
+### To install the project, clone the repository:
 
-```bash
-git clone https://github.com/masterfiras101/Laravel-Multitenancy.git
+``bash
+* `git clone https://github.com/masterfiras101/laravel-multitenancy-project.git`
+
+* `cd laravel-multitenancy-project`
+
+* `composer install`
+
+* `npm install`
+
+
+
+
+
