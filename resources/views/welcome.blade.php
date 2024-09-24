@@ -6,7 +6,7 @@
 
 
         <!-- PWA  -->
-        {{-- <meta name="theme-color" content="#FF2D20"/> --}}
+        <meta name="theme-color" content="#FF2D20"/>
         <link rel="apple-touch-icon" href="{{ asset('logo.png') }}">
         <link rel="manifest" href="{{ asset('/manifest.json') }}">
 

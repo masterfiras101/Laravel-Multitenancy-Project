@@ -127,7 +127,7 @@ return [
     /*
         aliases  Facade in this application
     */
-    'aliases'=>[
+    'aliases'=> [
         'LaravelPwa' => \Ladumor\LaravelPwa\LaravelPwa::class,
     ]
 
