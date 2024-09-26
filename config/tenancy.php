@@ -18,8 +18,8 @@ return [
      */
     'central_domains' => [
         'localhost',
-        // '127.0.0.1',
     ],
+    // '127.0.0.1',
 
     /**
      * Tenancy bootstrappers are executed when tenancy is initialized.
